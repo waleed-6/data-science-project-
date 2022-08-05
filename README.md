@@ -21,7 +21,6 @@ in this project i want to discover what is the effect the ability to go to colle
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available here https://medium.com/@wleedas38/is-he-she-going-to-college-20441c1ad585
-
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to kaggle  for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available here https://www.kaggle.com/datasets/saddamazyazy/go-to-college-dataset
