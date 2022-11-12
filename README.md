@@ -5,7 +5,6 @@
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [Results](#results)
-4. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
